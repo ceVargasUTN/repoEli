@@ -1,0 +1,18 @@
+typedef struct {
+    char titulo[50];
+    char nacionalidad[50];
+    char director[50];
+    int anio;
+    int id_peliculas;
+}ePeliculas;
+
+typedef struct {
+    char nombre[50];
+    char fecha_nac[50];
+    char pais_origen[50];
+    int id_director;
+}eDirectores;
+
+int getOpcion(int opc);
+void iniciarDatosArray(ePeliculas arrayPeli[], int cantElementos, int valor);
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1475276545 source:c:\users\alumno\desktop\abmpli\abmpeliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1475276573 c:\users\alumno\desktop\abmpli\abmpeliculas\headers.h
+
