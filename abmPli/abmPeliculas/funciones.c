@@ -63,4 +63,28 @@ int getStringValidado(char mensaje[], char input[])
     return 0;
 }
 
+int esNumerico(char strInput[])
+{
+   int i=0;
+   while(strInput[i] != '\0')
+   {
+       if(strInput[i] < '0' || strInput[i] > '9')
+           return 0;
+       i++;
+   }
+   return 1;
+}
+
+int getNumerosString(char mensaje[],char input[])
+{
+    char aux[256];
+    obtenerDatosPorTeclado(mensaje,aux);
+    if(esNumerico(aux))//&& strlen(esNumerico(aux)) > 9
+    {
+        strcpy(input,aux);
+        return 1;
+    }
+    return 0;
+}
+
 

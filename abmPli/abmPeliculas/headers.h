@@ -13,6 +13,12 @@ typedef struct {
     int id_director;
 }eDirectores;
 
+typedef struct{
+    int anio;
+    int mes;
+    int dia;
+}eFecha;
+
 int getOpcion(int opc);
 void iniciarDatosArray(ePeliculas arrayPeli[], int cantElementos, int valor);
 
