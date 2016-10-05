@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1474683578 source:c:\users\carlaeliana\desktop\menuabm\functions.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"prototypes.h"
+
+1474686166 c:\users\carlaeliana\desktop\menuabm\prototypes.h
+
+1474686166 source:c:\users\carlaeliana\desktop\menuabm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototypes.h"
+
+1475263590 source:c:\users\carlaeliana\desktop\menuabm2\functions.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"prototypes.h"
+
+1475270803 c:\users\carlaeliana\desktop\menuabm2\prototypes.h
+
+1475270877 source:c:\users\carlaeliana\desktop\menuabm2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototypes.h"
+

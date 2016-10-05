@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1475283214 source:c:\users\alumno\desktop\abmpli\abmpeliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1475283214 c:\users\alumno\desktop\abmpli\abmpeliculas\headers.h
+
+1475283214 source:c:\users\alumno\desktop\abmpli\abmpeliculas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1475633827 source:c:\users\carlaeliana\desktop\repoeli-master\abmpli\abmpeliculas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1475633827 c:\users\carlaeliana\desktop\repoeli-master\abmpli\abmpeliculas\headers.h
+
+1475634322 source:c:\users\carlaeliana\desktop\repoeli-master\abmpli\abmpeliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
