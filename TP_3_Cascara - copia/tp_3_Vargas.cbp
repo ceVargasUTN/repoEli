@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TP_3_Cascara" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TP_3_Cascara" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TP_3_Cascara" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="bin.dat" />
+		<Unit filename="css/.DS_Store" />
+		<Unit filename="css/bootstrap.css" />
+		<Unit filename="css/bootstrap.min.css" />
+		<Unit filename="css/custom.css" />
+		<Unit filename="f_abmPeliculas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="f_genericas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="f_peliculas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fonts/glyphicons-halflings-regular.eot" />
+		<Unit filename="fonts/glyphicons-halflings-regular.svg" />
+		<Unit filename="fonts/glyphicons-halflings-regular.ttf" />
+		<Unit filename="fonts/glyphicons-halflings-regular.woff" />
+		<Unit filename="fonts/glyphicons-halflings-regular.woff2" />
+		<Unit filename="headers.h" />
+		<Unit filename="js/.DS_Store" />
+		<Unit filename="js/bootstrap.js" />
+		<Unit filename="js/bootstrap.min.js" />
+		<Unit filename="js/holder.min.js" />
+		<Unit filename="js/ie10-viewport-bug-workaround.js" />
+		<Unit filename="js/jquery-1.11.3.min.js" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

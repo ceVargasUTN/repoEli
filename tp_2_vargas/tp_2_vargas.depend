@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1478632063 source:c:\users\carlaeliana\desktop\tp_2_vargas\f_genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1478730464 c:\users\carlaeliana\desktop\tp_2_vargas\headers.h
+
+1478733307 source:c:\users\carlaeliana\desktop\tp_2_vargas\f_persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1478733828 source:c:\users\carlaeliana\desktop\tp_2_vargas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+

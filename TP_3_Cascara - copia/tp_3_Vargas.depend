@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1478827673 source:c:\users\carlaeliana\desktop\tp_3_cascara\f_peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1478819641 c:\users\carlaeliana\desktop\tp_3_cascara\headers.h
+
+1478828683 source:c:\users\carlaeliana\desktop\tp_3_cascara\f_abmpeliculas.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1478819641 source:c:\users\carlaeliana\desktop\tp_3_cascara\f_genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1478829199 source:c:\users\carlaeliana\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1478819641 source:c:\users\carlaeliana\desktop\tp_3_cascara - copia\f_genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1478836974 c:\users\carlaeliana\desktop\tp_3_cascara - copia\headers.h
+
+1478834657 source:c:\users\carlaeliana\desktop\tp_3_cascara - copia\f_peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1478832111 source:c:\users\carlaeliana\desktop\tp_3_cascara - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1478834657 source:c:\users\carlaeliana\desktop\tp_3_cascara - copia\f_abmpeliculas.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+

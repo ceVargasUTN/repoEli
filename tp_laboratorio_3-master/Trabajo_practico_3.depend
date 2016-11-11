@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1477101858 source:c:\users\carlaeliana\desktop\tp_laboratorio_3-master\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"peliculas.h"
+	"libreria.h"
+
+1477101858 c:\users\carlaeliana\desktop\tp_laboratorio_3-master\peliculas.h
+
+1477101858 c:\users\carlaeliana\desktop\tp_laboratorio_3-master\libreria.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1477101858 source:c:\users\carlaeliana\desktop\tp_laboratorio_3-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"libreria.h"
+
+1477101858 source:c:\users\carlaeliana\desktop\tp_laboratorio_3-master\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"peliculas.h"
+	"libreria.h"
+
