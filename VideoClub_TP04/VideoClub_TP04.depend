@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1479432877 source:c:\users\carlaeliana\desktop\videoclub_tp04\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1479419764 c:\users\carlaeliana\desktop\videoclub_tp04\arraylist.h
+
+1480012737 source:c:\users\carlaeliana\desktop\videoclub_tp04\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Peliculas.h"
+	"hGenericas.h"
+
+1479409864 c:\users\carlaeliana\desktop\videoclub_tp04\peliculas.h
+
+1479409864 source:c:\users\carlaeliana\desktop\videoclub_tp04\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Peliculas.h"
+
+1478819641 source:c:\users\carlaeliana\desktop\videoclub_tp04\f_genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1478836974 c:\users\carlaeliana\desktop\videoclub_tp04\headers.h
+
+1480012703 c:\users\carlaeliana\desktop\videoclub_tp04\hgenericas.h
+
+1480012751 source:c:\users\carlaeliana\desktop\videoclub_tp04\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1480079372 source:c:\users\alumno\desktop\ver\trabajoscarla\videoclub_tp04\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1480079372 c:\users\alumno\desktop\ver\trabajoscarla\videoclub_tp04\arraylist.h
+
+1480079372 source:c:\users\alumno\desktop\ver\trabajoscarla\videoclub_tp04\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1480114248 source:c:\users\alumno\desktop\ver\trabajoscarla\videoclub_tp04\entregas.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Entregas.h"
+
+1480113591 c:\users\alumno\desktop\ver\trabajoscarla\videoclub_tp04\entregas.h
+
+1480113591 source:c:\users\alumno\desktop\ver\trabajoscarla\videoclub_tp04\f_genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1480079372 c:\users\alumno\desktop\ver\trabajoscarla\videoclub_tp04\headers.h
+
+1480114258 source:c:\users\alumno\desktop\ver\trabajoscarla\videoclub_tp04\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Entregas.h"
+
